@@ -4,16 +4,18 @@
 
 Version 1.02
 
-### Blog: [《一言（Hitokoto-Go）》- SycBlog][1]
+#### Blog: 
+[《一言（Hitokoto-Go）》- SycBlog][1]
 
-#### GNU General Public License v3.0
+#### 开源协议
+GNU General Public License v3.0
 
-### System
+#### 运行环境
  - GoLang 1.9+
  - Mysql
  - Redis
 
-### Pkg
+#### Pkg
     go get -u github.com/go-sql-driver/mysql
     go get github.com/garyburd/redigo/redis
 
@@ -45,8 +47,8 @@ Version 1.02
     测试: ./hitokoto
     后台: nohup ./hitokoto
 
-### 大功告成
+#### 大功告成
 访问 `127.0.0.1：8080` 显示如下：
 > 我相信十年后的八月，我们还能再相遇。
 
-[1] https://www.mfeng.cc/archives/2018/02/23/Hitokoto-Go.html
+[1]: https://www.mfeng.cc/archives/2018/02/23/Hitokoto-Go.html
