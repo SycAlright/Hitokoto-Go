@@ -45,7 +45,7 @@ GNU General Public License v3.0
 
 #### 运行
     测试: ./hitokoto
-    后台: nohup ./hitokoto
+    后台: nohup ./hitokoto &
 
 #### 大功告成
 访问 `127.0.0.1：8080` 显示如下：
